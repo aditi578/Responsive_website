@@ -4,6 +4,6 @@ It's responsive website.
 
 # Technologies
 * HTML5
-* CSS
+* CSS3
 
-#Link: https://pankaj142.github.io/Responsive-Website-using-HTML5-and-CSS3-/index.html
+
